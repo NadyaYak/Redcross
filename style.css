@@ -1,0 +1,178 @@
+body{
+background-color:#ccc;
+}
+header{
+    background-color:whitesmoke;
+    
+    
+}
+
+.navContainer{
+height: 70px;
+display: flex;
+justify-content:left;
+}
+
+.left{
+width: 20%;
+display: flex;
+justify-content: center;
+
+}
+
+.right{
+width: 80%;
+display:flex;
+border: right;
+
+}
+.page{
+ /* border: solid black;*/
+  height: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: white;
+  
+}
+.redCross{
+width: 100%;
+height: 50%;
+
+
+}
+
+.midContainer{
+  background-color: white;
+height: 50%;
+width: 80%;
+margin: 0 auto;
+    
+}
+.picA{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 865px;
+height: 320px;
+}
+
+.title{
+text-align: center;
+text-size-adjust: 50%;
+font-size: x-large;
+}
+
+.frequency{
+    /*border: solid red;*/
+    display: block;
+    height: 30px;
+
+}
+.payAmount{
+    /*border: solid green;*/
+    display: block;
+    height: 30px;
+
+}
+.payment{
+  background-color: white;
+text-align: center;
+/*border: solid black;*/
+height: 450px;
+
+
+}
+.paymentImg{
+ /* border: solid white;*/
+  height: 45%;
+  width: 35%;
+  display: block;
+  margin-left: 35%;
+  margin-top: 3%;
+  display: flex;
+
+}
+
+.paymentOne, .paymentTwo {
+/*border:solid whitesmoke;*/
+height: 100%;
+width:50%;
+display: flex;
+margin-right: 10%;
+}
+
+.visa, .paypal{
+height: 100%;
+
+
+
+
+
+}
+.anotherContainer{
+   /* border: solid black;*/
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15%;
+}
+.one,.two,.three{
+    border: solid gray;
+    height: 100%;
+    width: 30%;
+    display: block;
+    
+}
+.top{
+    /*border: solid blueviolet;*/
+    height:20%;
+    background-color: rgb(168, 162, 162);
+    display: flex;
+}
+  .bottom{
+    /*border: solid purple;*/
+    height: 77%;
+  }
+  .logo{
+ /*border: solid orange;*/
+ width: 20%;
+
+  }
+  .text{
+ /*border: solid orangered;*/
+ width: 80%;
+ font-size:x-large;
+ text-align: center; 
+  }
+  .lg{
+    background-color: azure;
+    border: solid gray;
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+    margin: auto;
+    padding-top: 20%;
+    
+  
+    
+  }
+  .resize{
+  height: 64%;
+   margin-left: 12px;
+   
+   
+  }
+
+  .parend{
+    margin-top: 7%;
+  }
+.footer{
+  display: flex;
+  background-color: whitesmoke;
+  
+}
+.footLeft{
+  display: flex;
+}
+
+
